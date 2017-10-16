@@ -1,5 +1,7 @@
 package com.example.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by Administrator on 2017/10/16 0016.
  */
